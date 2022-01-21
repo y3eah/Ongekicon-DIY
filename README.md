@@ -2,6 +2,7 @@
 Arcade size Open-Source Mu-drive/Ongeki controller made with MDF 9T, Acrylic 5T.
 
 This repository does not include wall button, lever, and code for the controller.
+This design is not accurate to the arcade design.
 
 # List of parts that are required (other than MDF/Acrylic) :
 
