@@ -1,5 +1,5 @@
 # Ongekicon-DIY
-Arcade size Open-Source Mu-drive/Ongeki controller made with MDF 9T
+Arcade size Open-Source Mu-drive/Ongeki controller made with MDF 9T, Acrylic 5T.
 
 This repository does not include wall button, lever, and code for the controller.
 
