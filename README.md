@@ -13,6 +13,8 @@ This repository does not include wall button, lever, and code for the controller
 | M8 Nut | 7 |
 | M3 35mm Screw | 12 |
 | USB-B Block | 2 |
+| 60mm buttons | 6 |
+| 29mm buttons | 4 | 
 
 # Assembly Instructions 
-Coming soon...
+Coming soon...?
