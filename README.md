@@ -23,3 +23,5 @@ Also, this design is not 100% accurate to the arcade design.
 
 # Assembly Instructions 
 Coming soon...?
+
+This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
